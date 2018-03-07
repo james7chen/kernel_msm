@@ -24,6 +24,10 @@
  * may be copied, distributed, and modified under those terms.
  */
 
+/*
+ * 2018.3.7 add Elan standard PEN protocol in driver code (not ready)
+*/
+
 #include <linux/module.h>
 #include <linux/input.h>
 #include <linux/interrupt.h>
